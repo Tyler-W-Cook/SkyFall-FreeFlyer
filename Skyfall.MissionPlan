@@ -2491,7 +2491,7 @@
     <Object>
       <Variable name="TetherLength" isConstant="true" isGlobal="false">
         <Name>TetherLength</Name>
-        <Value units="" displayed_units="">100.0</Value>
+        <Value units="" displayed_units="">10.0</Value>
         <metadata dim="0" />
       </Variable>
     </Object>
