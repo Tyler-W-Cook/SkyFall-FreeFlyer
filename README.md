@@ -12,5 +12,4 @@ Here is the link to apply for a FreeFlyer License
 https://ai-solutions.com/_help_Files/licensing_options.htm
 
 # Example Output
-![Image](https://github.com/user-attachments/assets/093aee3b-42bb-4e61-8b30-381e0c7e6d26)![Image](https://github.com/user-attachments/assets/093aee3b-42bb-4e61-8b30-381e0c7e6d26)
-
+![Image](https://github.com/user-attachments/assets/70eb40b6-7622-4ec4-b864-38b0d0a4a57d)
